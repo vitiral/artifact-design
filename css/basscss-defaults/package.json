@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "basscss-defaults@^2.0.1",
+        "scope": null,
+        "escapedName": "basscss-defaults",
+        "name": "basscss-defaults",
+        "rawSpec": "^2.0.1",
+        "spec": ">=2.0.1 <3.0.0",
+        "type": "range"
+      },
+      "/home/garrett/projects/rst/web-ui/node_modules/basscss-base-tables"
+    ]
+  ],
+  "_from": "basscss-defaults@>=2.0.1 <3.0.0",
+  "_id": "basscss-defaults@2.1.3",
+  "_inCache": true,
+  "_location": "/basscss-defaults",
+  "_nodeVersion": "4.1.1",
+  "_npmOperationalInternal": {
+    "host": "packages-6-west.internal.npmjs.com",
+    "tmp": "tmp/basscss-defaults-2.1.3.tgz_1454800705961_0.4195464507211"
+  },
+  "_npmUser": {
+    "name": "jxnblk",
+    "email": "jxnblk@gmail.com"
+  },
+  "_npmVersion": "3.3.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "basscss-defaults@^2.0.1",
+    "scope": null,
+    "escapedName": "basscss-defaults",
+    "name": "basscss-defaults",
+    "rawSpec": "^2.0.1",
+    "spec": ">=2.0.1 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/basscss-base-tables"
+  ],
+  "_resolved": "https://registry.npmjs.org/basscss-defaults/-/basscss-defaults-2.1.3.tgz",
+  "_shasum": "b4ea634e815c6923f0c7665b148a4cc8b3b43927",
+  "_shrinkwrap": null,
+  "_spec": "basscss-defaults@^2.0.1",
+  "_where": "/home/garrett/projects/rst/web-ui/node_modules/basscss-base-tables",
+  "author": {
+    "name": "Brent Jackson"
+  },
+  "bugs": {
+    "url": "https://github.com/basscss/addons/issues"
+  },
+  "dependencies": {
+    "colors.css": "^2.0.4"
+  },
+  "description": "Default variables for Basscss",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "b4ea634e815c6923f0c7665b148a4cc8b3b43927",
+    "tarball": "https://registry.npmjs.org/basscss-defaults/-/basscss-defaults-2.1.3.tgz"
+  },
+  "homepage": "https://github.com/basscss/addons",
+  "keywords": [
+    "CSS",
+    "OOCSS",
+    "Basscss",
+    "Rework"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "jxnblk",
+      "email": "jxnblk@gmail.com"
+    }
+  ],
+  "name": "basscss-defaults",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basscss/addons.git"
+  },
+  "scripts": {},
+  "version": "2.1.3"
+}

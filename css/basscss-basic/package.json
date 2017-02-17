@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "basscss-basic@^1.0.0",
+        "scope": null,
+        "escapedName": "basscss-basic",
+        "name": "basscss-basic",
+        "rawSpec": "^1.0.0",
+        "spec": ">=1.0.0 <2.0.0",
+        "type": "range"
+      },
+      "/home/garrett/projects/rst/web-ui/node_modules/ace-css"
+    ]
+  ],
+  "_from": "basscss-basic@>=1.0.0 <2.0.0",
+  "_id": "basscss-basic@1.0.0",
+  "_inCache": true,
+  "_location": "/basscss-basic",
+  "_nodeVersion": "4.1.1",
+  "_npmOperationalInternal": {
+    "host": "packages-6-west.internal.npmjs.com",
+    "tmp": "tmp/basscss-basic-1.0.0.tgz_1454806270095_0.9358006077818573"
+  },
+  "_npmUser": {
+    "name": "jxnblk",
+    "email": "jxnblk@gmail.com"
+  },
+  "_npmVersion": "3.3.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "basscss-basic@^1.0.0",
+    "scope": null,
+    "escapedName": "basscss-basic",
+    "name": "basscss-basic",
+    "rawSpec": "^1.0.0",
+    "spec": ">=1.0.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/ace-css"
+  ],
+  "_resolved": "https://registry.npmjs.org/basscss-basic/-/basscss-basic-1.0.0.tgz",
+  "_shasum": "fa5b7a5e696f2f970a85ff3f62980a6851931a57",
+  "_shrinkwrap": null,
+  "_spec": "basscss-basic@^1.0.0",
+  "_where": "/home/garrett/projects/rst/web-ui/node_modules/ace-css",
+  "author": {
+    "name": "Brent Jackson"
+  },
+  "dependencies": {},
+  "description": "Zero-configuration base element styles",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "fa5b7a5e696f2f970a85ff3f62980a6851931a57",
+    "tarball": "https://registry.npmjs.org/basscss-basic/-/basscss-basic-1.0.0.tgz"
+  },
+  "gitHead": "4f7006f16633be7918392eaa9162ce635e27286a",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "jxnblk",
+      "email": "jxnblk@gmail.com"
+    }
+  ],
+  "name": "basscss-basic",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.0.0"
+}
